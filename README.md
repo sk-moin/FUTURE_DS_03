@@ -1,1 +1,1 @@
-# College Event Feedback Analysis - NLP Project
+# College Event Feedback Sentiment Analysis - NLP Project
